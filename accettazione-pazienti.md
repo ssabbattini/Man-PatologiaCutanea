@@ -14,7 +14,9 @@ Il progressivo viene generatoa utomaticamente al termine dell'inserimento dell'a
 
 ## Medico inviante
 
-Indicare il medico inviante che richiede la diagnosi. Per modificare l'elenco dei medici invianti rimandiamo alla sezione [Anagrafe Medici Invianti](anagrafi/anagrafe-medici-invianti.md)
+Indicare il medico inviante che richiede la diagnosi. Il referto che verrà compilato andrà a finire nello spazio riservato al medico nel sito dei referti.
+
+ Per modificare l'elenco dei medici invianti rimandiamo alla sezione [Anagrafe Medici Invianti](anagrafi/anagrafe-medici-invianti.md)
 
 ## Dati del paziente
 
