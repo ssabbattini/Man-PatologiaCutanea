@@ -3,10 +3,14 @@
 ## Primo accesso
 
 Per il primo accesso i dati sono i seguenti:  
-Username: admin  
-Password: admin
+Username: **admin**  
+Password: **admin**
 
 Verrà richiesto il cambio della password. Vedi [Policy](./#policy-di-gestione-delle-password)
+
+![Login iniziale](.gitbook/assets/image.png)
+
+![Cambio password richiesto](.gitbook/assets/image%20%281%29.png)
 
 ## GDPR
 
