@@ -1,7 +1,3 @@
----
-description: 'Permette di modificare, aggiungere ed eliminare i medici invianti'
----
-
 # Anagrafe Medici Invianti
 
 ## Accesso esterno

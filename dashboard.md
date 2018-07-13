@@ -1,7 +1,7 @@
-﻿---
+---
 description: Permette di accedere alle funzionalità principali del gestionale
 ---
- 
+
 # Dashboard
 
 ## Workflow
@@ -14,8 +14,6 @@ La stesura di una diagnosi, dall'accettazione alla pubblicazione sul web di un r
 * Pubblicazione su web del referto
 
 ## Funzionalità di ricerca
-
-
 
 ## Anagrafi di base
 

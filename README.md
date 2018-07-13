@@ -1,7 +1,3 @@
----
-description: Permette di accedere alle funzionalità del programma gestionale.
----
-
 # Login
 
 ## Primo accesso
@@ -30,6 +26,4 @@ Le regole minime per una corretta scelta vengono imposte dal sistema e sono le s
 * deve avere almeno 1 caratteri **maiuscolo**
 * deve avere almeno **1 simbolo** \(scelti fra: **~!@$%^&\-+\*/=,;.':\|\(\)\[\]{}**\)
 * deve avere almeno 2 caratteri **numerici**
-
-
 

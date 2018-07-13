@@ -1,9 +1,3 @@
----
-description: >-
-  Permette di creare una nuova accettazione assegnando un nuovo progressivo ad
-  un nuovo caso
----
-
 # Accettazione Pazienti
 
 ## Dati referto
