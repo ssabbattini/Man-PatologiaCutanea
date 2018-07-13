@@ -1,7 +1,7 @@
----
+﻿---
 description: Permette di accedere alle funzionalità principali del gestionale
 ---
-
+ 
 # Dashboard
 
 ## Workflow
