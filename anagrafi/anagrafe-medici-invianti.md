@@ -18,11 +18,11 @@ Si ricorda che l'eliminazione di un medico è possibile solo se ad essi non sono
 
 | Comando | Descrizione |
 | --- | --- | --- | --- | --- | --- |
-| ![](http://www.patologiacutanea.local/img/pencil.svg) | Permette la modifica dei dati del medico inviante |
-| ![](http://www.patologiacutanea.local/img/cross.svg) | Permette l'eliminazione del medico invinate \(se non ci sono referti assegnati\) |
-| ![](http://www.patologiacutanea.local/img/man.svg) | Permette di creare un accesso all'area riservata. L'accesso avrà come username e password il codice del medico inviante. La password dovrà essere cambiata al primo accesso del medico inviante. |
-| ![](http://www.patologiacutanea.local/img/stop.svg) | Disabilita \(senza eliminare\) l'accesso all'area riservata. La disabilitazione non comporta la perdina di alcun dato, ma impedisce al medico inviante di loggarsi nel portale dei referti |
-| ![](http://www.patologiacutanea.local/img/man-disabled.svg) | Inidica che il medico ha un accesso disabilitato all'are riservata. Premendo nuovamente il pulsante l'accesso sarà rispristinato. |
+| ![](../.gitbook/assets/pencil.svg) | Permette la modifica dei dati del medico inviante |
+| ![](../.gitbook/assets/cross.svg) | Permette l'eliminazione del medico invinate \(se non ci sono referti assegnati\) |
+| ![](../.gitbook/assets/man.svg) | Permette di creare un accesso all'area riservata. L'accesso avrà come username e password il codice del medico inviante. La password dovrà essere cambiata al primo accesso del medico inviante. |
+| ![](../.gitbook/assets/stop.svg) | Disabilita \(senza eliminare\) l'accesso all'area riservata. La disabilitazione non comporta la perdina di alcun dato, ma impedisce al medico inviante di loggarsi nel portale dei referti |
+| ![](../.gitbook/assets/man-disabled.svg) | Inidica che il medico ha un accesso disabilitato all'are riservata. Premendo nuovamente il pulsante l'accesso sarà rispristinato. |
 
 ## Accesso esterno
 
