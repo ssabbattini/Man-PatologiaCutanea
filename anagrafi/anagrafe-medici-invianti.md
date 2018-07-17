@@ -18,7 +18,7 @@ Si ricorda che l'eliminazione di un medico è possibile solo se ad essi non sono
 
 | Comando | Descrizione |
 | --- | --- | --- | --- | --- | --- |
-| ![](../.gitbook/assets/pencil.svg) | Permette la modifica dei dati del medico inviante |
+| ![](../.gitbook/assets/pencil%20%281%29.svg) | Permette la modifica dei dati del medico inviante |
 | ![](../.gitbook/assets/cross.svg) | Permette l'eliminazione del medico invinate \(se non ci sono referti assegnati\) |
 | ![](../.gitbook/assets/man.svg) | Permette di creare un accesso all'area riservata. L'accesso avrà come username e password il codice del medico inviante. La password dovrà essere cambiata al primo accesso del medico inviante. |
 | ![](../.gitbook/assets/stop.svg) | Disabilita \(senza eliminare\) l'accesso all'area riservata. La disabilitazione non comporta la perdina di alcun dato, ma impedisce al medico inviante di loggarsi nel portale dei referti |
