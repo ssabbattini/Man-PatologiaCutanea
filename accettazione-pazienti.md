@@ -1,14 +1,16 @@
-# Accettazione Pazienti
+# 1. Accettazione Pazienti
+
+![](.gitbook/assets/image.png)
 
 ## Dati referto
 
 I dati richiesti sono la tipologia di esame \(per ora il programma supporta solo 'esame cutaneo'\), la data di accettazione e l'anno. Sia l'anno che la data sono inseriti automaticamente, ma possono essere cambiati.
 
-Il progressivo viene generatoa utomaticamente al termine dell'inserimento dell'accettazione
+Il progressivo viene generato automaticamente al termine dell'inserimento dell'accettazione.
 
 ## Medico inviante
 
-Indicare il medico inviante che richiede la diagnosi. Il referto che verrà compilato andrà a finire nello spazio riservato al medico nel sito dei referti.
+Indicare il medico inviante che richiede la diagnosi. Il referto che verrà compilato andrà a finire nello spazio riservato al medico nel sito dei referti \(qualora vengano pubblicati\).
 
  Per modificare l'elenco dei medici invianti rimandiamo alla sezione [Anagrafe Medici Invianti](anagrafi/anagrafe-medici-invianti.md)
 

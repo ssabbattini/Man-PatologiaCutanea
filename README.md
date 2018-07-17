@@ -8,9 +8,9 @@ Password: **admin**
 
 Verrà richiesto il cambio della password. Vedi [Policy](./#policy-di-gestione-delle-password)
 
-![Login iniziale](.gitbook/assets/image%20%281%29.png)
+![Login iniziale](.gitbook/assets/image%20%283%29.png)
 
-![Cambio password richiesto](.gitbook/assets/image.png)
+![Cambio password richiesto](.gitbook/assets/image%20%281%29.png)
 
 ## GDPR
 
