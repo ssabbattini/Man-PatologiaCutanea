@@ -28,3 +28,11 @@ Premendo sul link 'Mostra altri dati' sarà possibile inserire Codice Fiscale, S
 
 Le topografie indicano le sedi dei prelivi dei campioni. E' possibile assegnare fino a 6 topografie diverse. Per modificare l'elenco delle topografie rimandiamo alla relativa [anagrafica](anagrafi/topografie.md).
 
+Vi è inoltre un campo libero per la scrittura della topografica addizionale indicata nella richiesta del medico.
+
+### Salvataggio
+
+Al salvataggio della diagnosi verrà mostrato un messaggio io cui è indicato il nuovo numero di accettazione generato
+
+![Nuovo prograssivo generato assieme al messaggio di corretto inserimento della diagnosi](.gitbook/assets/image%20%289%29.png)
+

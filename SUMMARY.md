@@ -9,6 +9,7 @@
 * [Anagrafi](anagrafi/README.md)
   * [Anagrafe Medici Invianti](anagrafi/anagrafe-medici-invianti.md)
   * [Topografie](anagrafi/topografie.md)
+  * [Frasi](anagrafi/frasi.md)
 * [Utilità](utilita/README.md)
   * [Ricerca Diagnosi/Accettazione](utilita/ricerca-diagnosi-accettazione.md)
 * [Come fare per](come-fare-per/README.md)
