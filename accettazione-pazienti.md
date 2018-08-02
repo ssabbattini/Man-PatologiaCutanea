@@ -34,5 +34,5 @@ Vi è inoltre un campo libero per la scrittura della topografica addizionale ind
 
 Al salvataggio della diagnosi verrà mostrato un messaggio io cui è indicato il nuovo numero di accettazione generato
 
-![Nuovo prograssivo generato assieme al messaggio di corretto inserimento della diagnosi](.gitbook/assets/image%20%289%29.png)
+![Nuovo prograssivo generato assieme al messaggio di corretto inserimento della diagnosi](.gitbook/assets/image%20%2811%29.png)
 
